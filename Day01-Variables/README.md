@@ -6,9 +6,3 @@
   - Can use letters, numbers, and underscores.  
   - Must start with letter/underscore (not a number).  
   - Avoid spaces & reserved keywords.  
-
-## 🧑‍💻 Example
-```python
-Message = "Hello, 100DaysOfCode!"
-print(Message)
-print(type(Message))
