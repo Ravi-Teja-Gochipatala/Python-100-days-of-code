@@ -22,3 +22,20 @@ Example:- "greeting_message" is a valid variable, but "greeting message" is not
 - Avoid using Python reserved keywords as variable and function names
 
 Variable names should be short but descriptive 
+
+## **Python Comments**
+
+- **Comments are helpful to document the code, how it works, what its importance is, etc.**
+- **Python interpreter ignores Comments during program execution.**
+
+### Python has two types of Comments
+
+### i)Single-line Comments
+
+- **It starts with # and is used to comment line by line.**
+
+### ii)Multi-line Comments
+
+- **it start’s with tripule double quotes  “”” ”””  or  tripule single  quotes ‘’’ ‘’’  and used to comment a block of text or paragraph.**
+
+**The shortcut-key to Comment any number of lines is Ctrl + /**
