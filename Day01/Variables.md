@@ -6,15 +6,14 @@
 
 ### In programming, a variable is a named storage location that holds a value or a piece of data.
 
-### Simply put, a variable is a container used to store something.
+Simply put, a variable is a container used to store a value.
 
 ---
 
-### ✅ Rules for declaring variables with Examples
+#Rules for declaring variables with Examples
 
 ---
-
-### 1. **Variable names can contain only letters, numbers, and underscores**
+ 1. **Variable names can contain only letters, numbers, and underscores**
 
 ✔️ Valid:
 
@@ -133,17 +132,17 @@ asdf = 100    # meaningless
 
 ## **Python Comments**
 
-- **Comments are helpful to document about the code, how it works, what is it’s importance and etc.**
+- **Comments are helpful to document the code, how it works, what its importance is, etc.**
 - **Python interpreter ignores Comments during program execution.**
 
 ### Python has two types of Comments
 
 ### i)Single-line Comments
 
-- **It start’s with # and used to comment line by line.**
+- **It starts with # and is used to comment line by line.**
 
 ### ii)Multi-line Comments
 
-- **it start’s with tripule double quotes  “”” ”””  or  tripule single  quotes ‘’’ ‘’’  and used to comment a block of text or paragraph.**
+- **It starts with tripule double quotes  “”” ”””  or  tripule single  quotes ‘’’ ‘’’  and used to comment a block of text or paragraph.**
 
 **The shortcut-key to Comment any number of lines is Ctrl + /**
