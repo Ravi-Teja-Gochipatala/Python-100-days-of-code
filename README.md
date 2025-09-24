@@ -34,7 +34,7 @@ I’ll be documenting everything I learn here day by day.
 
 ## 🔗 Connect With Me
 - GitHub: [Ravi-Teja-Gochipatala](https://github.com/Ravi-Teja-Gochipatala)  
-- LinkedIn: https://www.linkedin.com/in/raviteja-gochipatala-2ab488259/  
-- Twitter/X: [@yourhandle](#)  
+- LinkedIn: https://www.linkedin.com/in/raviteja-gochipatala-2ab488259/ 
+- Twitter/X: 
 
 ---
