@@ -1,5 +1,3 @@
-# README.md
-
 # Python Datatypes
 
 ## What I Learn
