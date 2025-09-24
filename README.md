@@ -13,7 +13,7 @@ I’ll be documenting everything I learn here day by day.
 - There are two types of Comments:
 - one is single-line comments, used to comment line by line, it is denoted with #
 - another is multi-line comments, used to comment multiple lines at once using  double or triple quotes 
-- 📂 [Code & Notes](./Day01-Variables/)  
+- 📂 [Code & Notes](Day01)  
 
 ---
 
